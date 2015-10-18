@@ -9,12 +9,12 @@ Get to know the officers and/or learn more about the club by visiting our office
 | Mike Korcha	  	  | Vice President		    | vice-president@acm-csusb.org  |
 | Beverly Abadines 	| Treasurer 			      | treasurer@acm-csusb.org		    |
 | Keaton Boardman  	| Secretary 			      | secretary@acm-csusb.org			  |
-| Richard Quon 	  	| Information Officer 	| info@acm-­csusb.org					  |
+| Richard Quon 	  	| Information Officer 	| info@acm-csusb.org					  |
 | Alex Lazo			    | Event Coordinator 	  | events@acm-csusb.org 			    |
 | Juan Nevares		  | Historian 			      | historian@acm-csusb.org		    |
 
 | Advisor				        | Office				| Phone					| Email					 |
-|:----------------------|:--------------|:--------------|:--------------:|
+|:----------------------|:--------------|:--------------|:---------------|
 |Dr. Arturo Concepcion	|JB-343					|(909) 537-5330 |concep@csusb.edu|
 |Dr. Owen Murphy		    |JB-345					|(909) 537-5408	|murphy@csusb.edu|
 
