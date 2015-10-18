@@ -1,6 +1,6 @@
 ##Leadership
 
-Get to know the officers and/or learn more about the club by visiting our office hours in JB-540, or contacting [officers@ac­m-csusb.org](officers@ac­m-csusb.org) or any of the respective emails.
+Get to know the officers and/or learn more about the club by visiting our office hours in JB-540, or contacting [officers@acm-csusb.org]() or any of the respective emails.
 
 
 | Student			  	  | Position  			      | Email 								   						                          |
