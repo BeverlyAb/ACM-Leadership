@@ -1,22 +1,22 @@
 ##Leadership
 
-Get to know the officers and/or learn more about the club by visiting our office hours in JB-540, or contacting [officers@acm-csusb.org]() or any of the respective emails.
+Get to know the officers and/or learn more about the club by visiting our office hours in JB-540, or contacting officers@acm-csusb.org or any of the respective emails.
 
 
-| Student			  	  | Position  			      | Email 								   						                          |
-|:----------------- |:----------------------|:--------------------------------------------------------------|
-| Ruben Castaneda 	| President 			      | [president@acm-csusb.org](president@acm-csusb.org) 			    |
-| Mike Korcha	  	  | Vice President		    | [vice-president@acm-csusb.org](vice-president@acm-csusb.org)|
-| Beverly Abadines 	| Treasurer 			      | [treasurer@acm-csusb.org](treasurer@acm-csusb.org) 			    |
-| Keaton Boardman  	| Secretary 			      | [secretary@acm-csusb.org](secretary@acm-csusb.org) 			    |
-| Richard Quon 	  	| Information Officer 	| [info@acm-­csusb.org](info@acm-csusb.org) 						        |
-| Alex Lazo			    | Event Coordinator 	  | [events@acm-csusb.org](events@acm-csusb.org) 					      |
-| Juan Nevares		  | Historian 			      | [historian@acm-csusb.org](historian@acm-csusb.org) 			    |
+| Student			  	  | Position  			      | Email 								   	    |
+|:----------------- |:----------------------|:------------------------------|
+| Ruben Castaneda 	| President 			      | president@acm-csusb.org       |
+| Mike Korcha	  	  | Vice President		    | vice-president@acm-csusb.org  |
+| Beverly Abadines 	| Treasurer 			      | treasurer@acm-csusb.org		    |
+| Keaton Boardman  	| Secretary 			      | secretary@acm-csusb.org			  |
+| Richard Quon 	  	| Information Officer 	| info@acm-­csusb.org					  |
+| Alex Lazo			    | Event Coordinator 	  | events@acm-csusb.org 			    |
+| Juan Nevares		  | Historian 			      | historian@acm-csusb.org		    |
 
-| Advisor				        | Office				| Phone					| Email					                      |
-|:----------------------|:--------------|:--------------|:-----------------------------------:|
-|Dr. Arturo Concepcion	|JB-343					|(909) 537-5330 |[concep@csusb.edu](concep@csusb.edu)	|
-|Dr. Owen Murphy		    |JB-345					|(909) 537-5408	|[murphy@csusb.edu](murphy@csusbb.edu)|
+| Advisor				        | Office				| Phone					| Email					 |
+|:----------------------|:--------------|:--------------|:--------------:|
+|Dr. Arturo Concepcion	|JB-343					|(909) 537-5330 |concep@csusb.edu|
+|Dr. Owen Murphy		    |JB-345					|(909) 537-5408	|murphy@csusb.edu|
 
 ###Interested In Running The Club? 
 
