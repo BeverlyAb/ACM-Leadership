@@ -29,4 +29,4 @@ The voting procedures will be carried out in such a way that does not create bia
 
 Newly elected officers will assume the office at the monthly meeting following elections and will remain in office for one full year. Officers who previously held the position shall be kept available for a transition period of one month, during which they shall provide support to the new officers. 
 
-More thorough information about the election procedure can be read on the [ACM Constitution and Bylaws](https://github.com/CSE-Club/Constitution). 
+More thorough information about the election procedure can be read on the [ACM Constitution](https://github.com/CSE-Club/Constitution/blob/master/constitution.md) and [ACM By-laws](https://github.com/CSE-Club/Constitution/blob/master/bylaws.md)
