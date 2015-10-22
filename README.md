@@ -17,6 +17,7 @@ Get to know the officers and/or learn more about the club by visiting our office
 |:----------------------|:--------------|:--------------|:---------------|
 |Dr. Arturo Concepcion	|JB-343					|(909) 537-5330 |concep@csusb.edu|
 |Dr. Owen Murphy		    |JB-345					|(909) 537-5408	|murphy@csusb.edu|
+|Chingyi (Birdy) Wang   |JB-351         |(909) 537-5430 |bwang@csusb.edu|
 
 ###Interested In Running The Club? 
 
